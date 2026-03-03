@@ -15,7 +15,7 @@ def add_task():
     tasks.append(task)
     print("Task added!")
 
-def main()
+def main():
     while True:
         print("\n--- TO-DO APP ---")
         print("1. Show tasks")
