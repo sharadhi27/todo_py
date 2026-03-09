@@ -1,4 +1,7 @@
-public class devopslab{
-public static void main(String[]a){
- System.out.println("sss");
-}}
+public class devopslab {
+
+    public static void main(String[] args) {
+        System.out.println("sss");
+    }
+
+}
