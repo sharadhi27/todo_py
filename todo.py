@@ -10,7 +10,7 @@ def show_tasks():
         for i, task in enumerate(tasks, start=1):
             print(f"{i}. {task}")
 
-def add_task():
+def add_task()
     task = input("Enter a new task: ")
     tasks.append(task)
     print("Task added!")
